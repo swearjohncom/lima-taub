@@ -1,0 +1,19 @@
+#portrait {
+    margin-top: 30px;
+    width: 300px;
+}
+
+h1 {
+    padding-bottom: 10px;
+    /* border-bottom: solid 1px #505050; */
+    margin-bottom: 20px;
+    color: #CE1126;
+}
+
+.lead {
+    color: #026131;
+}
+
+#parody {
+    font-size: 12px;
+}
